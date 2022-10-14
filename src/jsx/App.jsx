@@ -23,7 +23,8 @@ function App() {
       <h1>Information so we don&apos;t die</h1>
       <p>At eight a&apos;clock Geneva time (CET) we gather to Caps BBQ</p>
       <p>There will be other people as well.</p>
-      <p>Propably Francesca as she likes food, Helena as she likes nachos, ZuZu as you cannot get red of him, Massi as he is the master mind, Yulia as we need to have her 🇺🇦🇺🇦🇺🇦 and Dante because the latin people always come in multiples.</p>
+      <p>Propably Francesca as she likes food, Helena as she likes nachos, ZuZu as you cannot get red of him, Massi as he is the master mind, Yulia as we always want to have her and Dante because the latin people always come in multiples.</p>
+      <p>🇺🇦🇺🇦🇺🇦 SLAVA UKRAINI! 🇺🇦🇺🇦🇺🇦</p>
       <p>Maybe some will cancel. Maybe others will join. This I cannot know but this is all I know.</p>
       <p>Here is photo of Sara and ZuZu eating so I assume it will a bit like this but also maybe a bit different.</p>
       <div className="image_container"><img src="./assets/img/d9404540-e570-490d-88e8-70b00b3a4e48.jpeg" alt="Sara & Zuzu" /></div>
