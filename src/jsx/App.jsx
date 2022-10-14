@@ -30,6 +30,8 @@ function App() {
       <div className="image_container"><img src="./assets/img/d9404540-e570-490d-88e8-70b00b3a4e48.jpeg" alt="Sara & Zuzu" /></div>
       <h1>So Sara, plz come!</h1>
       <div className="video_container"><iframe width="100%" height="" title="Youtube video" src="https://www.youtube.com/embed/EslzthDFm2w" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen /></div>
+      <p>This is a bonus photo without any reason</p>
+      <div className="image_container"><img src="./assets/img/image.png" alt="Sara & Teemo" /></div>
     </div>
   );
 }
