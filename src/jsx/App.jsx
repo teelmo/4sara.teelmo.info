@@ -20,7 +20,7 @@ function App() {
       <h3>What: Food</h3>
       <p>Here is another photo of Sara and Teemo (this time in a museum which is something Sara doesn&apos; like too much)</p>
       <div className="image_container"><img src="./assets/img/IMG_2034.jpeg" alt="Sara & Teemo" /></div>
-      <h1>Information so we don&apos;t die</h1>
+      <h1>Infor&shy;mation so we don&apos;t die</h1>
       <p>At eight a&apos;clock Geneva time (CET) we gather to Caps BBQ</p>
       <p>There will be other people as well.</p>
       <p>Propably Francesca as she likes food, Helena as she likes nachos, ZuZu as you cannot get red of him, Massi as he is the master mind, Yulia as we always want to have her and Dante because the latin people always come in multiples.</p>
